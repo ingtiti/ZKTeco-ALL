@@ -1,0 +1,11 @@
+Hello I'm from Mexico City and found your repo as ZKTeco user
+
+I'm interested on your project and want to know more details on how it works.
+
+Tell if I'm wrong:
+zk.py is your code to directly connect a ZKTeco device, rigth?
+ProcessManager.py is the code to retrive and upload Data and User files, rigth?
+DeviceManager.py is the process to handle the entry details from users, rigth?
+
+Why are you using win32com.client for?
+Do you have english version of your PDF?
